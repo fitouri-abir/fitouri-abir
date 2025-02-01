@@ -10,14 +10,6 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fitouri-abir&show_icons=true&locale=en" alt="fitouri-abir" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitouri-abir&" alt="fitouri-abir" /></p>
-<h2>❤️ Support Me:</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/abir_fitouri">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fitouri-abir/fitouri-abir/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fitouri-abir/fitouri-abir/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/fitouri-abir/fitouri-abir/output/github-snake.svg" />
