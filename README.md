@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Second-Year Computer Science Student | Software Engineering & Web Development at ISIMM<br>🌐 Passionate about building efficient, scalable software solutions and modern web applications<br>📖 Actively learning and exploring cutting-edge technologies<br>🚀 Striving to contribute to innovative projects shaping the future of computing
+💻 Final-year Computer Science Student | Software Engineering & Web Development at ISIMM<br>🌐 Passionate about building efficient, scalable software solutions and modern web applications<br>📖 Actively learning and exploring cutting-edge technologies<br>🚀 Striving to contribute to innovative projects shaping the future of computing
 
 
 ## 🌐 Socials:
