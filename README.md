@@ -1,5 +1,8 @@
-# 💫 About Me:
-💻 Final-year Computer Science Student | Software Engineering & Web Development at ISIMM<br>🌐 Passionate about building efficient, scalable software solutions and modern web applications<br>📖 Actively learning and exploring cutting-edge technologies<br>🚀 Striving to contribute to innovative projects shaping the future of computing
+💻 Développeuse logicielle, diplômée de l'ISIMM
+⚙️ Je ne fais pas que coder, j'ingénie des solutions.
+D'un fichier vide à un produit livré, je fais en sorte que ça marche.
+🌐 Je travaille avec C#, Angular, Python, React et TypeScript pour donner vie aux idées.
+🤗 Ouverte aux opportunités. Prête dès le premier jour. 
 
 
 ## 🌐 Socials:
